@@ -15,7 +15,6 @@ This repository contains the implementation and results for Milestone 2 and Mile
 ```
 |-- Milestone2.ipynb         # Jupyter Notebook for Milestone 2
 |-- Milestone3.ipynb         # Jupyter Notebook for Milestone 3
-|-- data/                    # Folder for audio dataset (CREMA-D)
 |-- README.md                # Project documentation (this file)
 ```
 
